@@ -13,16 +13,14 @@ PiRC-X is an experimental extension of the PiRC framework, exploring advanced me
 - Dynamic Pricing — adaptive allocation & pricing
 - Anti-Dump Mechanism — improves market stability
 
- Skill Layer (Proof of Skill)
+  Skill Layer (Proof of Skill / Contribution Economy)
 
 Introduces a contribution-based model:
-
 - Rewards users based on skill, output, and impact
 - Uses AI-assisted scoring and behavioral validation
 - Extends allocation beyond capital into real contribution
 
- 
- 👉 Full specification: [Skill Layer](https://github.com/Dapuraset/PiRC/tree/main/Skill%20Layer
+ Full specification: [Skill Layer](./skill-layer/README.md)
  Model
 
 Allocation = PoU × Trust Score × Skill Score × Human Verification
