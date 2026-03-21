@@ -1,5 +1,6 @@
 See [PiRC1: Pi Ecosystem Token Design](./PiRC1/ReadMe.md)
 
+
 🔐 PiRC-X (Experimental Module)
 
 PiRC-X is an experimental extension of the PiRC framework, exploring advanced mechanisms for token launch and distribution.
@@ -12,12 +13,16 @@ PiRC-X is an experimental extension of the PiRC framework, exploring advanced me
 - Dynamic Pricing — adaptive allocation & pricing
 - Anti-Dump Mechanism — improves market stability
 
-🧠 Skill Layer (Experimental)
+🧠 Skill Layer (Proof of Skill)
 
 Introduces a contribution-based model:
 
-- Proof of Skill (PoS) — measures user contribution quality
-- Skill Scoring Algorithm — AI-assisted scoring for participation and value creation
+- Rewards users based on skill, output, and impact
+- Uses AI-assisted scoring and behavioral validation
+- Extends allocation beyond capital into real contribution
+
+👉 Full specification available in:
+"/Skill Layer/README.md"
 
 🧠 Model
 
