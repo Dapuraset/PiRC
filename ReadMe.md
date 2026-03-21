@@ -21,8 +21,8 @@ Introduces a contribution-based model:
 - Uses AI-assisted scoring and behavioral validation
 - Extends allocation beyond capital into real contribution
 
- Full specification: [Skill Layer Documentation](./Skill%20Layer/README.md)
-
+ 
+ Full specification: [Skill Layer](./skill-layer/README.md)
  Model
 
 Allocation = PoU × Trust Score × Skill Score × Human Verification
