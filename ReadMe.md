@@ -22,7 +22,7 @@ Introduces a contribution-based model:
 - Extends allocation beyond capital into real contribution
 
  
- Full specification: [Skill Layer](./skill-layer/README.md)
+ 👉 Full specification: [Skill Layer](https://github.com/Dapuraset/PiRC/tree/main/Skill%20Layer
  Model
 
 Allocation = PoU × Trust Score × Skill Score × Human Verification
