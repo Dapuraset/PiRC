@@ -1,11 +1,11 @@
 See [PiRC1: Pi Ecosystem Token Design](./PiRC1/ReadMe.md)
 
 
-🔐 PiRC-X (Experimental Module)
+ PiRC-X (Experimental Module)
 
 PiRC-X is an experimental extension of the PiRC framework, exploring advanced mechanisms for token launch and distribution.
 
-⚙️ Core Concepts
+ Core Concepts
 
 - Proof of Utility (PoU) — rewards real usage
 - Trust Graph (TS) — prioritizes credible users
@@ -13,7 +13,7 @@ PiRC-X is an experimental extension of the PiRC framework, exploring advanced me
 - Dynamic Pricing — adaptive allocation & pricing
 - Anti-Dump Mechanism — improves market stability
 
-🧠 Skill Layer (Proof of Skill)
+ Skill Layer (Proof of Skill)
 
 Introduces a contribution-based model:
 
@@ -21,24 +21,23 @@ Introduces a contribution-based model:
 - Uses AI-assisted scoring and behavioral validation
 - Extends allocation beyond capital into real contribution
 
-👉 Full specification available in:
-"/Skill Layer/README.md"
+ Full specification: [Skill Layer Documentation](./Skill%20Layer/README.md)
 
-🧠 Model
+ Model
 
 Allocation = PoU × Trust Score × Skill Score × Human Verification
 
-🎯 Purpose
+ Purpose
 
 - Improve fairness in token distribution
 - Reduce Sybil and bot-driven manipulation
 - Reward real contribution and skill
 
-🧪 Status
+ Status
 
 Experimental / Research
 Non-breaking & modular
 
-🔧 Integration
+ Integration
 
 Designed as an optional layer that can be integrated incrementally without modifying core PiRC logic.
